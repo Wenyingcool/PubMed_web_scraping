@@ -5,9 +5,9 @@
 
 *Quick tips: you can set a function in the F2 cell with "=HYPERLINK("https://pubmed.ncbi.nlm.nih.gov" & E2)" and drag this cell to the end of the F column so that you can name a new column have hyper address based on column E. 
 
-⭐️Fortunately, the file named "python_address.ipynb" can contribute to an Excel with a "title and hyper address for literatures" 
+⭐️Fortunately, the file named "python_address.ipynb" can contribute to an Excel with a "title and hyper address for literature" 
 
-⭐️In these two files, my search string in PubMed is (ex-gaussian[Title/Abstract]) AND (reaction time[Title/Abstract]). Please feel free to replace them when you try to make your search. 
+⭐️In these two files, my search string in PubMed is (ex-gaussian[Title/Abstract]) AND (reaction time[Title/Abstract]). And, for the web scraping, I scraped 60 results, which means 6 pages in the Pubmed. Please feel free to replace the search words/pages when you try to make your search. 
 
 🌻Thank you for your review.
 Merry Xmas🫡
