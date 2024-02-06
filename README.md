@@ -7,7 +7,8 @@
 
 ⭐️Fortunately, the file named "python_address.ipynb" can contribute to an Excel with a "title and hyper address for literature" 
 
-⭐️In these two files, my search string in PubMed is (ex-gaussian[Title/Abstract]) AND (reaction time[Title/Abstract]). And, for the web scraping, I scraped 60 results, which means 6 pages in the Pubmed. Please feel free to replace the search words/pages when you try to make your search. 
+⭐️In these two files, my search string in PubMed is (ex-gaussian[Title/Abstract]) AND (reaction time[Title/Abstract]). And, for the web scraping, I scraped 60 results, which means that the first 6 pages in the Pubmed result. Please feel free to replace the search words/pages when you try to make your search. 
 
 🌻Thank you for your review.
 Merry Xmas🫡
+2023
